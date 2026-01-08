@@ -14,7 +14,7 @@ Members:
 1. Bibek Nandi (14)
 2. Anmol Kansal (9)
 3. Shubham Kumar (41)
-4. Vikash Sharma (54)
+4. Vikash Sharma (54) askvikashsharma@gmail.com
 5. Siddhant Singh (42)
 """)
 
